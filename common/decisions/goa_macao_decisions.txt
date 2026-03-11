@@ -1,0 +1,57 @@
+﻿goa_decision = {
+	is_shown = {
+		has_dlc_feature = ip4_content
+		OR = {
+			c:POR ?= ROOT
+			c:IBE ?= ROOT
+		}
+		country_has_state_religion = rel:catholic
+		is_subject = no
+		NOT = {
+			has_variable = goa_decision_initiated
+		}
+	}
+
+	possible = {
+	}
+
+	when_taken = {
+		trigger_event = {
+			id = portuguese_colonialism.15
+		}
+		set_variable = goa_decision_initiated
+	}
+
+	ai_chance = {
+		value = 1
+	}
+}
+
+macao_decision = {
+	is_shown = {
+		has_dlc_feature = ip4_content
+		OR = {
+			c:POR ?= ROOT
+			c:IBE ?= ROOT
+		}
+		is_subject = no
+		NOT = {
+			has_variable = macao_decision_initiated
+		}
+	}
+
+	possible = {
+	}
+
+	when_taken = {
+		trigger_event = {
+			id = portuguese_colonialism.16
+		}
+		custom_tooltip = macao_decision_tt
+		set_variable = macao_decision_initiated
+	}
+
+	ai_chance = {
+		value = 1
+	}
+}

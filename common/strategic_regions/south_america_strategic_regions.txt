@@ -1,0 +1,9 @@
+﻿# Strategic Regions in South America
+
+region_brazil = {}
+
+region_andes = {}
+
+region_la_plata = {}
+
+region_gran_colombia = {}

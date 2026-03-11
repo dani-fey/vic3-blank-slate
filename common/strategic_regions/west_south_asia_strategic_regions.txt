@@ -1,0 +1,23 @@
+﻿# Strategic Regions in West and South Asia
+
+region_anatolia = {}
+
+region_arabic = {}
+
+region_persia = {}
+
+region_central_asia = {}
+
+region_caucasus = {}
+
+region_madras = {}
+
+region_bengal = {}
+
+region_bombay = {}
+
+region_punjab = {}
+
+region_himalayas = {}
+
+region_central_india = {}

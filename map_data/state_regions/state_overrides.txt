@@ -1,0 +1,3314 @@
+﻿STATE_ABRUZZO = {
+	id = 10000
+	provinces = {}
+}
+
+STATE_ACEH = {
+	id = 10001
+	provinces = {}
+}
+
+STATE_ACRE = {
+	id = 10002
+	provinces = {}
+}
+
+STATE_ADANA = {
+	id = 10003
+	provinces = {}
+}
+
+STATE_AGRA = {
+	id = 10004
+	provinces = {}
+}
+
+STATE_AKMOLINSK = {
+	id = 10005
+	provinces = {}
+}
+
+STATE_AKTOBE = {
+	id = 10006
+	provinces = {}
+}
+
+STATE_ALASKA = {
+	id = 10007
+	provinces = {}
+}
+
+STATE_ALBERTA = {
+	id = 10008
+	provinces = {}
+}
+
+STATE_ALENTEJO = {
+	id = 10009
+	provinces = {}
+}
+
+STATE_ALEPPO = {
+	id = 10010
+	provinces = {}
+}
+
+STATE_ALGIERS = {
+	id = 10011
+	provinces = {}
+}
+
+STATE_ALSACE_LORRAINE = {
+	id = 10012
+	provinces = {}
+}
+
+STATE_ALTAI = {
+	id = 10013
+	provinces = {}
+}
+
+STATE_ALTO_PARAGUAY = {
+	id = 10014
+	provinces = {}
+}
+
+STATE_AMAZONAS = {
+	id = 10015
+	provinces = {}
+}
+
+STATE_AMUR = {
+	id = 10016
+	provinces = {}
+}
+
+STATE_ANTIOQUIA = {
+	id = 10017
+	provinces = {}
+}
+
+STATE_ANTOFAGASTA = {
+	id = 10018
+	provinces = {}
+}
+
+STATE_APULIA = {
+	id = 10019
+	provinces = {}
+}
+
+STATE_AQUITAINE = {
+	id = 10020
+	provinces = {}
+}
+
+STATE_ARAUCANIA = {
+	id = 10021
+	provinces = {}
+}
+
+STATE_AREQUIPA = {
+	id = 10022
+	provinces = {}
+}
+
+STATE_ARIZONA = {
+	id = 10023
+	provinces = {}
+}
+
+STATE_ARMENIA = {
+	id = 10024
+	provinces = {}
+}
+
+STATE_ASTURIAS = {
+	id = 10025
+	provinces = {}
+}
+
+STATE_ATTICA = {
+	id = 10026
+	provinces = {}
+}
+
+STATE_AUSTRIA = {
+	id = 10027
+	provinces = {}
+}
+
+STATE_AYDIN = {
+	id = 10028
+	provinces = {}
+}
+
+STATE_AZERBAIJAN = {
+	id = 10029
+	provinces = {}
+}
+
+STATE_BAJA_CALIFORNIA = {
+	id = 10030
+	provinces = {}
+}
+
+STATE_BAJO_PARAGUAY = {
+	id = 10031
+	provinces = {}
+}
+
+STATE_BALEARIC_ISLANDS = {
+	id = 10032
+	provinces = {}
+}
+
+STATE_BALKH = {
+	id = 10033
+	provinces = {}
+}
+
+STATE_BALUCHISTAN = {
+	id = 10034
+	provinces = {}
+}
+
+STATE_BASQUE_COUNTRY = {
+	id = 10035
+	provinces = {}
+}
+
+STATE_BAVARIA = {
+	id = 10036
+	provinces = {}
+}
+
+STATE_BEIJING = {
+	id = 10037
+	provinces = {}
+}
+
+STATE_BEIRA = {
+	id = 10038
+	provinces = {}
+}
+
+STATE_BOHEMIA = {
+	id = 10039
+	provinces = {}
+}
+
+STATE_BOLIVAR = {
+	id = 10040
+	provinces = {}
+}
+
+STATE_BOMBAY = {
+	id = 10041
+	provinces = {}
+}
+
+STATE_BRANDENBURG = {
+	id = 10042
+	provinces = {}
+}
+
+STATE_BRITISH_COLUMBIA = {
+	id = 10043
+	provinces = {}
+}
+
+STATE_BRITTANY = {
+	id = 10044
+	provinces = {}
+}
+
+STATE_BUENOS_AIRES = {
+	id = 10045
+	provinces = {}
+}
+
+STATE_BUSAN = {
+	id = 10046
+	provinces = {}
+}
+
+STATE_CAJAMARCA = {
+	id = 10047
+	provinces = {}
+}
+
+STATE_CALABRIA = {
+	id = 10048
+	provinces = {}
+}
+
+STATE_CALIFORNIA = {
+	id = 10049
+	provinces = {}
+}
+
+STATE_CAMPANIA = {
+	id = 10050
+	provinces = {}
+}
+
+STATE_CAPE_COLONY = {
+	id = 10051
+	provinces = {}
+}
+
+STATE_CATALONIA = {
+	id = 10052
+	provinces = {}
+}
+
+STATE_CAUCA = {
+	id = 10053
+	provinces = {}
+}
+
+STATE_CENTRAL_HIGHLANDS = {
+	id = 10054
+	provinces = {}
+}
+
+STATE_CENTRAL_HUNGARY = {
+	id = 10055
+	provinces = {}
+}
+
+STATE_CENTRAL_JAVA = {
+	id = 10056
+	provinces = {}
+}
+
+STATE_CHACO = {
+	id = 10057
+	provinces = {}
+}
+
+STATE_COLORADO = {
+	id = 10058
+	provinces = {}
+}
+
+STATE_CONNAUGHT = {
+	id = 10059
+	provinces = {}
+}
+
+STATE_CONSTANTINE = {
+	id = 10060
+	provinces = {}
+}
+
+STATE_CORRIENTES = {
+	id = 10061
+	provinces = {}
+}
+
+STATE_CORSICA = {
+	id = 10062
+	provinces = {}
+}
+
+STATE_CRETE = {
+	id = 10063
+	provinces = {}
+}
+
+STATE_CROATIA = {
+	id = 10064
+	provinces = {}
+}
+
+STATE_CUNDINAMARCA = {
+	id = 10065
+	provinces = {}
+}
+
+STATE_DAGESTAN = {
+	id = 10066
+	provinces = {}
+}
+
+STATE_DELHI = {
+	id = 10067
+	provinces = {}
+}
+
+STATE_DZUNGARIA = {
+	id = 10068
+	provinces = {}
+}
+
+STATE_EASTERN_CAPE = {
+	id = 10069
+	provinces = {}
+}
+
+STATE_EASTERN_THRACE = {
+	id = 10070
+	provinces = {}
+}
+
+STATE_EAST_AEGEAN_ISLANDS = {
+	id = 10071
+	provinces = {}
+}
+
+STATE_EAST_ANGLIA = {
+	id = 10072
+	provinces = {}
+}
+
+STATE_EAST_ANGOLA = {
+	id = 10073
+	provinces = {}
+}
+
+STATE_EAST_BENGAL = {
+	id = 10074
+	provinces = {}
+}
+
+STATE_EAST_BORNEO = {
+	id = 10075
+	provinces = {}
+}
+
+STATE_EAST_PRUSSIA = {
+	id = 10076
+	provinces = {}
+}
+
+STATE_EAST_SAHARA = {
+	id = 10077
+	provinces = {}
+}
+
+STATE_ECUADOR = {
+	id = 10078
+	provinces = {}
+}
+
+STATE_ELBE = {
+	id = 10079
+	provinces = {}
+}
+
+STATE_EMILIA = {
+	id = 10080
+	provinces = {}
+}
+
+STATE_ENTRE_DOURO_E_MINHO = {
+	id = 10081
+	provinces = {}
+}
+
+STATE_ESTREMADURA = {
+	id = 10082
+	provinces = {}
+}
+
+STATE_FERGANA = {
+	id = 10083
+	provinces = {}
+}
+
+STATE_FLANDERS = {
+	id = 10084
+	provinces = {}
+}
+
+STATE_FLORIDA = {
+	id = 10085
+	provinces = {}
+}
+
+STATE_FRENCH_LOW_COUNTRIES = {
+	id = 10086
+	provinces = {}
+}
+
+STATE_FRIESLAND = {
+	id = 10087
+	provinces = {}
+}
+
+STATE_GALICIA = {
+	id = 10088
+	provinces = {}
+}
+
+STATE_GEORGIA = {
+	id = 10089
+	provinces = {}
+}
+
+STATE_GREATER_CAUCASUS = {
+	id = 10090
+	provinces = {}
+}
+
+STATE_GUANGDONG = {
+	id = 10091
+	provinces = {}
+}
+
+STATE_GUAVIARE = {
+	id = 10092
+	provinces = {}
+}
+
+STATE_GUAYANA = {
+	id = 10093
+	provinces = {}
+}
+
+STATE_HANNOVER = {
+	id = 10094
+	provinces = {}
+}
+
+STATE_HAWAIIAN_ISLANDS = {
+	id = 10095
+	provinces = {}
+}
+
+STATE_HEDJAZ = {
+	id = 10096
+	provinces = {}
+}
+
+STATE_HERAT = {
+	id = 10097
+	provinces = {}
+}
+
+STATE_HIGHLANDS = {
+	id = 10098
+	provinces = {}
+}
+
+STATE_HILL_PUNJAB = {
+	id = 10099
+	provinces = {}
+}
+
+STATE_HINGGAN = {
+	id = 10100
+	provinces = {}
+}
+
+STATE_HOLLAND = {
+	id = 10101
+	provinces = {}
+}
+
+STATE_HOME_COUNTIES = {
+	id = 10102
+	provinces = {}
+}
+
+STATE_HUDAVENDIGAR = {
+	id = 10103
+	provinces = {}
+}
+
+STATE_HYDERABAD = {
+	id = 10104
+	provinces = {}
+}
+
+STATE_ICA = {
+	id = 10105
+	provinces = {}
+}
+
+STATE_IDAHO = {
+	id = 10106
+	provinces = {}
+}
+
+STATE_ILE_DE_FRANCE = {
+	id = 10107
+	provinces = {}
+}
+
+STATE_IRAKAJEMI = {
+	id = 10108
+	provinces = {}
+}
+
+STATE_ISTRIA = {
+	id = 10109
+	provinces = {}
+}
+
+STATE_JETISY = {
+	id = 10110
+	provinces = {}
+}
+
+STATE_JUJUY = {
+	id = 10111
+	provinces = {}
+}
+
+STATE_KABUL = {
+	id = 10112
+	provinces = {}
+}
+
+STATE_KANDAHAR = {
+	id = 10113
+	provinces = {}
+}
+
+STATE_KANSAS = {
+	id = 10114
+	provinces = {}
+}
+
+STATE_KANTO = {
+	id = 10115
+	provinces = {}
+}
+
+STATE_KARS = {
+	id = 10116
+	provinces = {}
+}
+
+STATE_KASHMIR = {
+	id = 10117
+	provinces = {}
+}
+
+STATE_KENYA = {
+	id = 10118
+	provinces = {}
+}
+
+STATE_KHIVA = {
+	id = 10119
+	provinces = {}
+}
+
+STATE_KHORASAN = {
+	id = 10120
+	provinces = {}
+}
+
+STATE_KIEV = {
+	id = 10121
+	provinces = {}
+}
+
+STATE_KIRGHIZIA = {
+	id = 10122
+	provinces = {}
+}
+
+STATE_KUBAN = {
+	id = 10123
+	provinces = {}
+}
+
+STATE_LANCASHIRE = {
+	id = 10124
+	provinces = {}
+}
+
+STATE_LANGUEDOC = {
+	id = 10125
+	provinces = {}
+}
+
+STATE_LARISTAN = {
+	id = 10126
+	provinces = {}
+}
+
+STATE_LAZIO = {
+	id = 10127
+	provinces = {}
+}
+
+STATE_LA_PAZ = {
+	id = 10128
+	provinces = {}
+}
+
+STATE_LEBANON = {
+	id = 10129
+	provinces = {}
+}
+
+STATE_LEINSTER = {
+	id = 10130
+	provinces = {}
+}
+
+STATE_LIMA = {
+	id = 10131
+	provinces = {}
+}
+
+STATE_LINDI = {
+	id = 10132
+	provinces = {}
+}
+
+STATE_LOMBARDY = {
+	id = 10133
+	provinces = {}
+}
+
+STATE_LOS_RIOS = {
+	id = 10134
+	provinces = {}
+}
+
+STATE_LOURENCO_MARQUES = {
+	id = 10135
+	provinces = {}
+}
+
+STATE_LOWER_EGYPT = {
+	id = 10136
+	provinces = {}
+}
+
+STATE_LOWER_SILESIA = {
+	id = 10137
+	provinces = {}
+}
+
+STATE_LOWLANDS = {
+	id = 10138
+	provinces = {}
+}
+
+STATE_LUZON = {
+	id = 10139
+	provinces = {}
+}
+
+STATE_MACEDONIA = {
+	id = 10140
+	provinces = {}
+}
+
+STATE_MADRAS = {
+	id = 10141
+	provinces = {}
+}
+
+STATE_MALTA = {
+	id = 10142
+	provinces = {}
+}
+
+STATE_MANITOBA = {
+	id = 10143
+	provinces = {}
+}
+
+STATE_MATO_GROSSO = {
+	id = 10144
+	provinces = {}
+}
+
+STATE_MECKLENBURG = {
+	id = 10145
+	provinces = {}
+}
+
+STATE_MERZ = {
+	id = 10146
+	provinces = {}
+}
+
+STATE_MEXICO = {
+	id = 10147
+	provinces = {}
+}
+
+STATE_MIDDLE_EGYPT = {
+	id = 10148
+	provinces = {}
+}
+
+STATE_MIDLANDS = {
+	id = 10149
+	provinces = {}
+}
+
+STATE_MINSK = {
+	id = 10150
+	provinces = {}
+}
+
+STATE_MIRANDA = {
+	id = 10151
+	provinces = {}
+}
+
+STATE_MOCAMBIQUE = {
+	id = 10152
+	provinces = {}
+}
+
+STATE_MONTANA = {
+	id = 10153
+	provinces = {}
+}
+
+STATE_MOSCOW = {
+	id = 10154
+	provinces = {}
+}
+
+STATE_MUNSTER = {
+	id = 10155
+	provinces = {}
+}
+
+STATE_MURCIA = {
+	id = 10156
+	provinces = {}
+}
+
+STATE_NANJING = {
+	id = 10157
+	provinces = {}
+}
+
+STATE_NEBRASKA = {
+	id = 10158
+	provinces = {}
+}
+
+STATE_NEVADA = {
+	id = 10159
+	provinces = {}
+}
+
+STATE_NEWFOUNDLAND = {
+	id = 10160
+	provinces = {}
+}
+
+STATE_NEW_BRUNSWICK = {
+	id = 10161
+	provinces = {}
+}
+
+STATE_NEW_CASTILE = {
+	id = 10162
+	provinces = {}
+}
+
+STATE_NEW_MEXICO = {
+	id = 10163
+	provinces = {}
+}
+
+STATE_NEW_SOUTH_WALES = {
+	id = 10164
+	provinces = {}
+}
+
+STATE_NEW_YORK = {
+	id = 10165
+	provinces = {}
+}
+
+STATE_NORMANDY = {
+	id = 10166
+	provinces = {}
+}
+
+STATE_NORTHERN_BALUCHISTAN = {
+	id = 10167
+	provinces = {}
+}
+
+STATE_NORTHERN_CAPE = {
+	id = 10168
+	provinces = {}
+}
+
+STATE_NORTHERN_MANCHURIA = {
+	id = 10169
+	provinces = {}
+}
+
+STATE_NORTHERN_TERRITORY = {
+	id = 10170
+	provinces = {}
+}
+
+STATE_NORTHERN_TRANSYLVANIA = {
+	id = 10171
+	provinces = {}
+}
+
+STATE_NORTHWEST_TERRITORIES = {
+	id = 10172
+	provinces = {}
+}
+
+STATE_NORTH_BORNEO = {
+	id = 10173
+	provinces = {}
+}
+
+STATE_NORTH_CAUCASUS = {
+	id = 10174
+	provinces = {}
+}
+
+STATE_NORTH_DAKOTA = {
+	id = 10175
+	provinces = {}
+}
+
+STATE_NORTH_ISLAND = {
+	id = 10176
+	provinces = {}
+}
+
+STATE_NORTH_RHINE = {
+	id = 10177
+	provinces = {}
+}
+
+STATE_NORTH_SUMATRA = {
+	id = 10178
+	provinces = {}
+}
+
+STATE_NUNAVUT = {
+	id = 10179
+	provinces = {}
+}
+
+STATE_OKLAHOMA = {
+	id = 10180
+	provinces = {}
+}
+
+STATE_OLD_CASTILE = {
+	id = 10181
+	provinces = {}
+}
+
+STATE_ONTARIO = {
+	id = 10182
+	provinces = {}
+}
+
+STATE_ORAN = {
+	id = 10183
+	provinces = {}
+}
+
+STATE_OREGON = {
+	id = 10184
+	provinces = {}
+}
+
+STATE_OSTROBOTHNIA = {
+	id = 10185
+	provinces = {}
+}
+
+STATE_OUTER_MANCHURIA = {
+	id = 10186
+	provinces = {}
+}
+
+STATE_PALESTINE = {
+	id = 10187
+	provinces = {}
+}
+
+STATE_PANAMA = {
+	id = 10188
+	provinces = {}
+}
+
+STATE_PARA = {
+	id = 10189
+	provinces = {}
+}
+
+STATE_PARANA = {
+	id = 10190
+	provinces = {}
+}
+
+STATE_PASHTUNISTAN = {
+	id = 10191
+	provinces = {}
+}
+
+STATE_PASTAZA = {
+	id = 10192
+	provinces = {}
+}
+
+STATE_PATAGONIA = {
+	id = 10193
+	provinces = {}
+}
+
+STATE_PELOPONNESE = {
+	id = 10194
+	provinces = {}
+}
+
+STATE_PENNSYLVANIA = {
+	id = 10195
+	provinces = {}
+}
+
+STATE_PICARDY = {
+	id = 10196
+	provinces = {}
+}
+
+STATE_PIEDMONT = {
+	id = 10197
+	provinces = {}
+}
+
+STATE_POITOU = {
+	id = 10198
+	provinces = {}
+}
+
+STATE_POMERANIA = {
+	id = 10199
+	provinces = {}
+}
+
+STATE_POSEN = {
+	id = 10200
+	provinces = {}
+}
+
+STATE_POTOSI = {
+	id = 10201
+	provinces = {}
+}
+
+STATE_PROVENCE = {
+	id = 10202
+	provinces = {}
+}
+
+STATE_PUNJAB = {
+	id = 10203
+	provinces = {}
+}
+
+STATE_PYONGYANG = {
+	id = 10204
+	provinces = {}
+}
+
+STATE_QUEBEC = {
+	id = 10205
+	provinces = {}
+}
+
+STATE_QUEENSLAND = {
+	id = 10206
+	provinces = {}
+}
+
+STATE_QUETTA = {
+	id = 10207
+	provinces = {}
+}
+
+STATE_RHINELAND = {
+	id = 10208
+	provinces = {}
+}
+
+STATE_RHONE = {
+	id = 10209
+	provinces = {}
+}
+
+STATE_RIFT_VALLEY = {
+	id = 10210
+	provinces = {}
+}
+
+STATE_RIGA = {
+	id = 10211
+	provinces = {}
+}
+
+STATE_RIO_DE_JANEIRO = {
+	id = 10212
+	provinces = {}
+}
+
+STATE_RIO_GRANDE_DO_SUL = {
+	id = 10213
+	provinces = {}
+}
+
+STATE_RIO_NEGRO = {
+	id = 10214
+	provinces = {}
+}
+
+STATE_ROMAGNA = {
+	id = 10215
+	provinces = {}
+}
+
+STATE_SAHARA = {
+	id = 10216
+	provinces = {}
+}
+
+STATE_SAMARA = {
+	id = 10217
+	provinces = {}
+}
+
+STATE_SANTA_CATARINA = {
+	id = 10218
+	provinces = {}
+}
+
+STATE_SANTA_CRUZ = {
+	id = 10219
+	provinces = {}
+}
+
+STATE_SANTA_FE = {
+	id = 10220
+	provinces = {}
+}
+
+STATE_SANTIAGO = {
+	id = 10221
+	provinces = {}
+}
+
+STATE_SAO_PAULO = {
+	id = 10222
+	provinces = {}
+}
+
+STATE_SARDINIA = {
+	id = 10223
+	provinces = {}
+}
+
+STATE_SARIWON = {
+	id = 10224
+	provinces = {}
+}
+
+STATE_SASKATCHEWAN = {
+	id = 10225
+	provinces = {}
+}
+
+STATE_SAVOY = {
+	id = 10226
+	provinces = {}
+}
+
+STATE_SAXONY = {
+	id = 10227
+	provinces = {}
+}
+
+STATE_SCHLESWIG_HOLSTEIN = {
+	id = 10228
+	provinces = {}
+}
+
+STATE_SEMIRECHE = {
+	id = 10229
+	provinces = {}
+}
+
+STATE_SEOUL = {
+	id = 10230
+	provinces = {}
+}
+
+STATE_SHENGJING = {
+	id = 10231
+	provinces = {}
+}
+
+STATE_SICILY = {
+	id = 10232
+	provinces = {}
+}
+
+STATE_SINAI = {
+	id = 10233
+	provinces = {}
+}
+
+STATE_SINDH = {
+	id = 10234
+	provinces = {}
+}
+
+STATE_SOUTHERN_MANCHURIA = {
+	id = 10235
+	provinces = {}
+}
+
+STATE_SOUTHERN_TRANSYLVANIA = {
+	id = 10236
+	provinces = {}
+}
+
+STATE_SOUTH_ATLANTIC_ISLANDS = {
+	id = 10237
+	provinces = {}
+}
+
+STATE_SOUTH_AUSTRALIA = {
+	id = 10238
+	provinces = {}
+}
+
+STATE_SOUTH_DAKOTA = {
+	id = 10239
+	provinces = {}
+}
+
+STATE_SOUTH_ISLAND = {
+	id = 10240
+	provinces = {}
+}
+
+STATE_SOUTH_SUMATRA = {
+	id = 10241
+	provinces = {}
+}
+
+STATE_STYRIA = {
+	id = 10242
+	provinces = {}
+}
+
+STATE_SUZHOU = {
+	id = 10243
+	provinces = {}
+}
+
+STATE_SVEALAND = {
+	id = 10244
+	provinces = {}
+}
+
+STATE_SYRDARYA = {
+	id = 10245
+	provinces = {}
+}
+
+STATE_SYRIA = {
+	id = 10246
+	provinces = {}
+}
+
+STATE_TABRIZ = {
+	id = 10247
+	provinces = {}
+}
+
+STATE_TAJIKISTAN = {
+	id = 10248
+	provinces = {}
+}
+
+STATE_TALINN = {
+	id = 10249
+	provinces = {}
+}
+
+STATE_TANGANYIKA = {
+	id = 10250
+	provinces = {}
+}
+
+STATE_TARAPACA = {
+	id = 10251
+	provinces = {}
+}
+
+STATE_TASMANIA = {
+	id = 10252
+	provinces = {}
+}
+
+STATE_TEXAS = {
+	id = 10253
+	provinces = {}
+}
+
+STATE_TIANSHAN = {
+	id = 10254
+	provinces = {}
+}
+
+STATE_TOMSK = {
+	id = 10255
+	provinces = {}
+}
+
+STATE_TRABZON = {
+	id = 10256
+	provinces = {}
+}
+
+STATE_TRANSDANUBIA = {
+	id = 10257
+	provinces = {}
+}
+
+STATE_TRANSJORDAN = {
+	id = 10258
+	provinces = {}
+}
+
+STATE_TRANSVAAL = {
+	id = 10259
+	provinces = {}
+}
+
+STATE_TUCUMAN = {
+	id = 10260
+	provinces = {}
+}
+
+STATE_TURKMENIA = {
+	id = 10261
+	provinces = {}
+}
+
+STATE_TUSCANY = {
+	id = 10262
+	provinces = {}
+}
+
+STATE_ULSTER = {
+	id = 10263
+	provinces = {}
+}
+
+STATE_UMBRIA = {
+	id = 10264
+	provinces = {}
+}
+
+STATE_UPPER_EGYPT = {
+	id = 10265
+	provinces = {}
+}
+
+STATE_UPPER_SILESIA = {
+	id = 10266
+	provinces = {}
+}
+
+STATE_URALSK = {
+	id = 10267
+	provinces = {}
+}
+
+STATE_URUGUAY = {
+	id = 10268
+	provinces = {}
+}
+
+STATE_UTAH = {
+	id = 10269
+	provinces = {}
+}
+
+STATE_UUSIMAA = {
+	id = 10270
+	provinces = {}
+}
+
+STATE_UZBEKIA = {
+	id = 10271
+	provinces = {}
+}
+
+STATE_VALENCIA = {
+	id = 10272
+	provinces = {}
+}
+
+STATE_VENETIA = {
+	id = 10273
+	provinces = {}
+}
+
+STATE_VICTORIA = {
+	id = 10274
+	provinces = {}
+}
+
+STATE_VISAYAS = {
+	id = 10275
+	provinces = {}
+}
+
+STATE_VRYSTAAT = {
+	id = 10276
+	provinces = {}
+}
+
+STATE_WALES = {
+	id = 10277
+	provinces = {}
+}
+
+STATE_WALLONIA = {
+	id = 10278
+	provinces = {}
+}
+
+STATE_WASHINGTON = {
+	id = 10279
+	provinces = {}
+}
+
+STATE_WESTERN_AUSTRALIA = {
+	id = 10280
+	provinces = {}
+}
+
+STATE_WESTERN_SERBIA = {
+	id = 10281
+	provinces = {}
+}
+
+STATE_WESTERN_THRACE = {
+	id = 10282
+	provinces = {}
+}
+
+STATE_WEST_BENGAL = {
+	id = 10283
+	provinces = {}
+}
+
+STATE_WEST_BORNEO = {
+	id = 10284
+	provinces = {}
+}
+
+STATE_WEST_COUNTRY = {
+	id = 10285
+	provinces = {}
+}
+
+STATE_WEST_GALICIA = {
+	id = 10286
+	provinces = {}
+}
+
+STATE_WEST_JAVA = {
+	id = 10287
+	provinces = {}
+}
+
+STATE_WEST_PRUSSIA = {
+	id = 10288
+	provinces = {}
+}
+
+STATE_WYOMING = {
+	id = 10289
+	provinces = {}
+}
+
+STATE_YANGHO = {
+	id = 10290
+	provinces = {}
+}
+
+STATE_YORKSHIRE = {
+	id = 10291
+	provinces = {}
+}
+
+STATE_YUKON_TERRITORY = {
+	id = 10292
+	provinces = {}
+}
+
+STATE_ZAMBEZIA = {
+	id = 10293
+	provinces = {}
+}
+
+STATE_ZANZIBAR = {
+	id = 10294
+	provinces = {}
+}
+
+STATE_ZULIA = {
+	id = 10295
+	provinces = {}
+}
+
+STATE_ZULULAND = {
+	id = 10296
+	provinces = {}
+}
+
+STATE_ABU_DHABI = {
+	id = 10297
+	provinces = {}
+}
+
+STATE_ALABAMA = {
+	id = 10298
+	provinces = {}
+}
+
+STATE_ALBANIA = {
+	id = 10299
+	provinces = {}
+}
+
+STATE_ALXA = {
+	id = 10300
+	provinces = {}
+}
+
+STATE_AL_RIF = {
+	id = 10301
+	provinces = {}
+}
+
+STATE_AMHARA = {
+	id = 10302
+	provinces = {}
+}
+
+STATE_ANHALT = {
+	id = 10303
+	provinces = {}
+}
+
+STATE_ANKARA = {
+	id = 10304
+	provinces = {}
+}
+
+STATE_ANNAM = {
+	id = 10305
+	provinces = {}
+}
+
+STATE_ARAGON = {
+	id = 10306
+	provinces = {}
+}
+
+STATE_ARAKAN = {
+	id = 10307
+	provinces = {}
+}
+
+STATE_ARKANSAS = {
+	id = 10308
+	provinces = {}
+}
+
+STATE_ARKHANGELSK = {
+	id = 10309
+	provinces = {}
+}
+
+STATE_ASSAM = {
+	id = 10310
+	provinces = {}
+}
+
+STATE_ASTRAKHAN = {
+	id = 10311
+	provinces = {}
+}
+
+STATE_AUVERGNE_LIMOUSIN = {
+	id = 10312
+	provinces = {}
+}
+
+STATE_AWADH = {
+	id = 10313
+	provinces = {}
+}
+
+STATE_AZORES = {
+	id = 10314
+	provinces = {}
+}
+
+STATE_BADEN = {
+	id = 10315
+	provinces = {}
+}
+
+STATE_BAGHDAD = {
+	id = 10316
+	provinces = {}
+}
+
+STATE_BAHAMAS = {
+	id = 10317
+	provinces = {}
+}
+
+STATE_BAHIA = {
+	id = 10318
+	provinces = {}
+}
+
+STATE_BAJIO = {
+	id = 10319
+	provinces = {}
+}
+
+STATE_BANAT = {
+	id = 10320
+	provinces = {}
+}
+
+STATE_BANGKOK = {
+	id = 10321
+	provinces = {}
+}
+
+STATE_BASRA = {
+	id = 10322
+	provinces = {}
+}
+
+STATE_BAS_CONGO = {
+	id = 10323
+	provinces = {}
+}
+
+STATE_BEKES = {
+	id = 10324
+	provinces = {}
+}
+
+STATE_BENIN = {
+	id = 10325
+	provinces = {}
+}
+
+STATE_BESSARABIA = {
+	id = 10326
+	provinces = {}
+}
+
+STATE_BIHAR = {
+	id = 10327
+	provinces = {}
+}
+
+STATE_BLUE_NILE = {
+	id = 10328
+	provinces = {}
+}
+
+STATE_BORNU = {
+	id = 10329
+	provinces = {}
+}
+
+STATE_BOSNIA = {
+	id = 10330
+	provinces = {}
+}
+
+STATE_BREST = {
+	id = 10331
+	provinces = {}
+}
+
+STATE_BRUNSWICK = {
+	id = 10332
+	provinces = {}
+}
+
+STATE_BUKOVINA = {
+	id = 10333
+	provinces = {}
+}
+
+STATE_BULGARIA = {
+	id = 10334
+	provinces = {}
+}
+
+STATE_BUNDELKHAND = {
+	id = 10335
+	provinces = {}
+}
+
+STATE_BURGUNDY = {
+	id = 10336
+	provinces = {}
+}
+
+STATE_CAMBODIA = {
+	id = 10337
+	provinces = {}
+}
+
+STATE_CANARY_ISLANDS = {
+	id = 10338
+	provinces = {}
+}
+
+STATE_CAPE_VERDE = {
+	id = 10339
+	provinces = {}
+}
+
+STATE_CEARA = {
+	id = 10340
+	provinces = {}
+}
+
+STATE_CENTRAL_CUBA = {
+	id = 10341
+	provinces = {}
+}
+
+STATE_CENTRAL_PROVINCES = {
+	id = 10342
+	provinces = {}
+}
+
+STATE_CEYLON = {
+	id = 10343
+	provinces = {}
+}
+
+STATE_CHAD = {
+	id = 10344
+	provinces = {}
+}
+
+STATE_CHAMPAGNE = {
+	id = 10345
+	provinces = {}
+}
+
+STATE_CHELYABINSK = {
+	id = 10346
+	provinces = {}
+}
+
+STATE_CHERNIHIV = {
+	id = 10347
+	provinces = {}
+}
+
+STATE_CHERSON = {
+	id = 10348
+	provinces = {}
+}
+
+STATE_CHIANG_MAI = {
+	id = 10349
+	provinces = {}
+}
+
+STATE_CHIAPAS = {
+	id = 10350
+	provinces = {}
+}
+
+STATE_CHIHUAHUA = {
+	id = 10351
+	provinces = {}
+}
+
+STATE_CHONGQING = {
+	id = 10352
+	provinces = {}
+}
+
+STATE_CHUBU = {
+	id = 10353
+	provinces = {}
+}
+
+STATE_CHUGOKU = {
+	id = 10354
+	provinces = {}
+}
+
+STATE_CHUVASHIA = {
+	id = 10355
+	provinces = {}
+}
+
+STATE_CIRCARS = {
+	id = 10356
+	provinces = {}
+}
+
+STATE_CONNECTICUT = {
+	id = 10357
+	provinces = {}
+}
+
+STATE_COSTA_RICA = {
+	id = 10358
+	provinces = {}
+}
+
+STATE_COURLAND = {
+	id = 10359
+	provinces = {}
+}
+
+STATE_CRIMEA = {
+	id = 10360
+	provinces = {}
+}
+
+STATE_CYPRUS = {
+	id = 10361
+	provinces = {}
+}
+
+STATE_DAHOMEY = {
+	id = 10362
+	provinces = {}
+}
+
+STATE_DALMATIA = {
+	id = 10363
+	provinces = {}
+}
+
+STATE_DARFUR = {
+	id = 10364
+	provinces = {}
+}
+
+STATE_DEIR_EZ_ZOR = {
+	id = 10365
+	provinces = {}
+}
+
+STATE_DELAWARE = {
+	id = 10366
+	provinces = {}
+}
+
+STATE_DELVIDEK = {
+	id = 10367
+	provinces = {}
+}
+
+STATE_DISTRICT_OF_COLUMBIA = {
+	id = 10368
+	provinces = {}
+}
+
+STATE_DIYARBAKIR = {
+	id = 10369
+	provinces = {}
+}
+
+STATE_DOBRUDJA = {
+	id = 10370
+	provinces = {}
+}
+
+STATE_DONGOLA = {
+	id = 10371
+	provinces = {}
+}
+
+STATE_DURANGO = {
+	id = 10372
+	provinces = {}
+}
+
+STATE_EASTERN_CUBA = {
+	id = 10373
+	provinces = {}
+}
+
+STATE_EASTERN_HUBEI = {
+	id = 10374
+	provinces = {}
+}
+
+STATE_EASTERN_MALI = {
+	id = 10375
+	provinces = {}
+}
+
+STATE_EASTERN_NORWAY = {
+	id = 10376
+	provinces = {}
+}
+
+STATE_EASTERN_SERBIA = {
+	id = 10377
+	provinces = {}
+}
+
+STATE_EAST_HAUSALAND = {
+	id = 10378
+	provinces = {}
+}
+
+STATE_EAST_JAVA = {
+	id = 10379
+	provinces = {}
+}
+
+STATE_EAST_SWITZERLAND = {
+	id = 10380
+	provinces = {}
+}
+
+STATE_ELIZAVETPOL = {
+	id = 10381
+	provinces = {}
+}
+
+STATE_ERITREA = {
+	id = 10382
+	provinces = {}
+}
+
+STATE_ERZURUM = {
+	id = 10383
+	provinces = {}
+}
+
+STATE_EXTREMADURA = {
+	id = 10384
+	provinces = {}
+}
+
+STATE_FARS = {
+	id = 10385
+	provinces = {}
+}
+
+STATE_FEZ = {
+	id = 10386
+	provinces = {}
+}
+
+STATE_FORMOSA = {
+	id = 10387
+	provinces = {}
+}
+
+STATE_FRANCHE_COMTE = {
+	id = 10388
+	provinces = {}
+}
+
+STATE_FRANCONIA = {
+	id = 10389
+	provinces = {}
+}
+
+STATE_FUJIAN = {
+	id = 10390
+	provinces = {}
+}
+
+STATE_GALICH = {
+	id = 10391
+	provinces = {}
+}
+
+STATE_GANSU = {
+	id = 10392
+	provinces = {}
+}
+
+STATE_GELRE = {
+	id = 10393
+	provinces = {}
+}
+
+STATE_GOIAS = {
+	id = 10394
+	provinces = {}
+}
+
+STATE_GOLD_COAST = {
+	id = 10395
+	provinces = {}
+}
+
+STATE_GONDER = {
+	id = 10396
+	provinces = {}
+}
+
+STATE_GOTALAND = {
+	id = 10397
+	provinces = {}
+}
+
+STATE_GREATER_POLAND = {
+	id = 10398
+	provinces = {}
+}
+
+STATE_GREENLAND = {
+	id = 10399
+	provinces = {}
+}
+
+STATE_GUANGXI = {
+	id = 10400
+	provinces = {}
+}
+
+STATE_GUATEMALA = {
+	id = 10401
+	provinces = {}
+}
+
+STATE_GUERRERO = {
+	id = 10402
+	provinces = {}
+}
+
+STATE_GUINEA = {
+	id = 10403
+	provinces = {}
+}
+
+STATE_GUIZHOU = {
+	id = 10404
+	provinces = {}
+}
+
+STATE_GUJARAT = {
+	id = 10405
+	provinces = {}
+}
+
+STATE_GUYENNE = {
+	id = 10406
+	provinces = {}
+}
+
+STATE_HAIL = {
+	id = 10407
+	provinces = {}
+}
+
+STATE_HAITI = {
+	id = 10408
+	provinces = {}
+}
+
+STATE_HAUSALAND = {
+	id = 10409
+	provinces = {}
+}
+
+STATE_HENAN = {
+	id = 10410
+	provinces = {}
+}
+
+STATE_HESSE = {
+	id = 10411
+	provinces = {}
+}
+
+STATE_HIMALAYAS = {
+	id = 10412
+	provinces = {}
+}
+
+STATE_HOKKAIDO = {
+	id = 10413
+	provinces = {}
+}
+
+STATE_HONDURAS = {
+	id = 10414
+	provinces = {}
+}
+
+STATE_HUNAN = {
+	id = 10415
+	provinces = {}
+}
+
+STATE_ICELAND = {
+	id = 10416
+	provinces = {}
+}
+
+STATE_ILLINOIS = {
+	id = 10417
+	provinces = {}
+}
+
+STATE_INDIANA = {
+	id = 10418
+	provinces = {}
+}
+
+STATE_INGRIA = {
+	id = 10419
+	provinces = {}
+}
+
+STATE_INNER_MOROCCO = {
+	id = 10420
+	provinces = {}
+}
+
+STATE_IONIAN_ISLANDS = {
+	id = 10421
+	provinces = {}
+}
+
+STATE_ISFAHAN = {
+	id = 10422
+	provinces = {}
+}
+
+STATE_JALISCO = {
+	id = 10423
+	provinces = {}
+}
+
+STATE_JAMAICA = {
+	id = 10424
+	provinces = {}
+}
+
+STATE_JIANGSU = {
+	id = 10425
+	provinces = {}
+}
+
+STATE_JIANGXI = {
+	id = 10426
+	provinces = {}
+}
+
+STATE_JUTLAND = {
+	id = 10427
+	provinces = {}
+}
+
+STATE_KACHIN = {
+	id = 10428
+	provinces = {}
+}
+
+STATE_KALMYKIA = {
+	id = 10429
+	provinces = {}
+}
+
+STATE_KANSAI = {
+	id = 10430
+	provinces = {}
+}
+
+STATE_KASTAMONU = {
+	id = 10431
+	provinces = {}
+}
+
+STATE_KAUNAS = {
+	id = 10432
+	provinces = {}
+}
+
+STATE_KAZAN = {
+	id = 10433
+	provinces = {}
+}
+
+STATE_KENTUCKY = {
+	id = 10434
+	provinces = {}
+}
+
+STATE_KERMAN = {
+	id = 10435
+	provinces = {}
+}
+
+STATE_KHARKOV = {
+	id = 10436
+	provinces = {}
+}
+
+STATE_KHUZESTAN = {
+	id = 10437
+	provinces = {}
+}
+
+STATE_KONYA = {
+	id = 10438
+	provinces = {}
+}
+
+STATE_KORDOFAN = {
+	id = 10439
+	provinces = {}
+}
+
+STATE_KUOPIO = {
+	id = 10440
+	provinces = {}
+}
+
+STATE_KURNOOL = {
+	id = 10441
+	provinces = {}
+}
+
+STATE_KURSK = {
+	id = 10442
+	provinces = {}
+}
+
+STATE_KYUSHU = {
+	id = 10443
+	provinces = {}
+}
+
+STATE_LAOS = {
+	id = 10444
+	provinces = {}
+}
+
+STATE_LA_PAMPA = {
+	id = 10445
+	provinces = {}
+}
+
+STATE_LEON = {
+	id = 10446
+	provinces = {}
+}
+
+STATE_LESSER_POLAND = {
+	id = 10447
+	provinces = {}
+}
+
+STATE_LHASA = {
+	id = 10448
+	provinces = {}
+}
+
+STATE_LIBERIA = {
+	id = 10449
+	provinces = {}
+}
+
+STATE_LIBYA = {
+	id = 10450
+	provinces = {}
+}
+
+STATE_LIBYAN_DESERT = {
+	id = 10451
+	provinces = {}
+}
+
+STATE_LORRAINE = {
+	id = 10452
+	provinces = {}
+}
+
+STATE_LOUISIANA = {
+	id = 10453
+	provinces = {}
+}
+
+STATE_LOWER_ANDALUSIA = {
+	id = 10454
+	provinces = {}
+}
+
+STATE_LURISTAN = {
+	id = 10455
+	provinces = {}
+}
+
+STATE_MADEIRA = {
+	id = 10456
+	provinces = {}
+}
+
+STATE_MAINE = {
+	id = 10457
+	provinces = {}
+}
+
+STATE_MAINE_ANJOU = {
+	id = 10458
+	provinces = {}
+}
+
+STATE_MALAYA = {
+	id = 10459
+	provinces = {}
+}
+
+STATE_MALWA = {
+	id = 10460
+	provinces = {}
+}
+
+STATE_MANDALAY = {
+	id = 10461
+	provinces = {}
+}
+
+STATE_MARANHAO = {
+	id = 10462
+	provinces = {}
+}
+
+STATE_MARRAKECH = {
+	id = 10463
+	provinces = {}
+}
+
+STATE_MARYLAND = {
+	id = 10464
+	provinces = {}
+}
+
+STATE_MASSACHUSETTS = {
+	id = 10465
+	provinces = {}
+}
+
+STATE_MAZANDARAN = {
+	id = 10466
+	provinces = {}
+}
+
+STATE_MAZOVIA = {
+	id = 10467
+	provinces = {}
+}
+
+STATE_MEKONG = {
+	id = 10468
+	provinces = {}
+}
+
+STATE_MICHIGAN = {
+	id = 10469
+	provinces = {}
+}
+
+STATE_MINAS_GERAIS = {
+	id = 10470
+	provinces = {}
+}
+
+STATE_MINDANAO = {
+	id = 10471
+	provinces = {}
+}
+
+STATE_MISSISSIPPI = {
+	id = 10472
+	provinces = {}
+}
+
+STATE_MISSOURI = {
+	id = 10473
+	provinces = {}
+}
+
+STATE_MOGILEV = {
+	id = 10474
+	provinces = {}
+}
+
+STATE_MOLDAVIA = {
+	id = 10475
+	provinces = {}
+}
+
+STATE_MOLUCCAS = {
+	id = 10476
+	provinces = {}
+}
+
+STATE_MONTENEGRO = {
+	id = 10477
+	provinces = {}
+}
+
+STATE_MORAVIA = {
+	id = 10478
+	provinces = {}
+}
+
+STATE_MOSUL = {
+	id = 10479
+	provinces = {}
+}
+
+STATE_MYSORE = {
+	id = 10480
+	provinces = {}
+}
+
+STATE_NAKHON_RATCHASIMA = {
+	id = 10481
+	provinces = {}
+}
+
+STATE_NEJD = {
+	id = 10482
+	provinces = {}
+}
+
+STATE_NEW_HAMPSHIRE = {
+	id = 10483
+	provinces = {}
+}
+
+STATE_NEW_JERSEY = {
+	id = 10484
+	provinces = {}
+}
+
+STATE_NGARI = {
+	id = 10485
+	provinces = {}
+}
+
+STATE_NICARAGUA = {
+	id = 10486
+	provinces = {}
+}
+
+STATE_NIGERIA = {
+	id = 10487
+	provinces = {}
+}
+
+STATE_NINGXIA = {
+	id = 10488
+	provinces = {}
+}
+
+STATE_NIZHNY_NOVGOROD = {
+	id = 10489
+	provinces = {}
+}
+
+STATE_NORRLAND = {
+	id = 10490
+	provinces = {}
+}
+
+STATE_NORTHERN_ANHUI = {
+	id = 10491
+	provinces = {}
+}
+
+STATE_NORTHERN_NORWAY = {
+	id = 10492
+	provinces = {}
+}
+
+STATE_NORTHERN_THRACE = {
+	id = 10493
+	provinces = {}
+}
+
+STATE_NORTH_ANGOLA = {
+	id = 10494
+	provinces = {}
+}
+
+STATE_NORTH_CAMEROON = {
+	id = 10495
+	provinces = {}
+}
+
+STATE_NORTH_CAROLINA = {
+	id = 10496
+	provinces = {}
+}
+
+STATE_NORTH_MADAGASCAR = {
+	id = 10497
+	provinces = {}
+}
+
+STATE_NOVGOROD = {
+	id = 10498
+	provinces = {}
+}
+
+STATE_OAXACA = {
+	id = 10499
+	provinces = {}
+}
+
+STATE_OB = {
+	id = 10500
+	provinces = {}
+}
+
+STATE_OHIO = {
+	id = 10501
+	provinces = {}
+}
+
+STATE_OMAN = {
+	id = 10502
+	provinces = {}
+}
+
+STATE_ORISSA = {
+	id = 10503
+	provinces = {}
+}
+
+STATE_ORLEANS = {
+	id = 10504
+	provinces = {}
+}
+
+STATE_OROMIA = {
+	id = 10505
+	provinces = {}
+}
+
+STATE_ORYOL = {
+	id = 10506
+	provinces = {}
+}
+
+STATE_OULU = {
+	id = 10507
+	provinces = {}
+}
+
+STATE_OUTER_HAUSALAND = {
+	id = 10508
+	provinces = {}
+}
+
+STATE_PARAIBA = {
+	id = 10509
+	provinces = {}
+}
+
+STATE_PEGU = {
+	id = 10510
+	provinces = {}
+}
+
+STATE_PERM = {
+	id = 10511
+	provinces = {}
+}
+
+STATE_PERNAMBUCO = {
+	id = 10512
+	provinces = {}
+}
+
+STATE_PIAUI = {
+	id = 10513
+	provinces = {}
+}
+
+STATE_PSKOV = {
+	id = 10514
+	provinces = {}
+}
+
+STATE_PUERTO_RICO = {
+	id = 10515
+	provinces = {}
+}
+
+STATE_QINGHAI = {
+	id = 10516
+	provinces = {}
+}
+
+STATE_RAJPUTANA = {
+	id = 10517
+	provinces = {}
+}
+
+STATE_RHODE_ISLAND = {
+	id = 10518
+	provinces = {}
+}
+
+STATE_RIO_GRANDE = {
+	id = 10519
+	provinces = {}
+}
+
+STATE_RIO_GRANDE_DO_NORTE = {
+	id = 10520
+	provinces = {}
+}
+
+STATE_ROSTOV = {
+	id = 10521
+	provinces = {}
+}
+
+STATE_RUHR = {
+	id = 10522
+	provinces = {}
+}
+
+STATE_RUTHENIA = {
+	id = 10523
+	provinces = {}
+}
+
+STATE_RYAZAN = {
+	id = 10524
+	provinces = {}
+}
+
+STATE_RYUKYU_ISLANDS = {
+	id = 10525
+	provinces = {}
+}
+
+STATE_SANTO_DOMINGO = {
+	id = 10526
+	provinces = {}
+}
+
+STATE_SAN_SALVADOR = {
+	id = 10527
+	provinces = {}
+}
+
+STATE_SCANIA = {
+	id = 10528
+	provinces = {}
+}
+
+STATE_SEMNAN = {
+	id = 10529
+	provinces = {}
+}
+
+STATE_SENEGAL = {
+	id = 10530
+	provinces = {}
+}
+
+STATE_SHANDONG = {
+	id = 10531
+	provinces = {}
+}
+
+STATE_SHANXI = {
+	id = 10532
+	provinces = {}
+}
+
+STATE_SHAN_STATES = {
+	id = 10533
+	provinces = {}
+}
+
+STATE_SHAOZHOU = {
+	id = 10534
+	provinces = {}
+}
+
+STATE_SHIKOKU = {
+	id = 10535
+	provinces = {}
+}
+
+STATE_SICHUAN = {
+	id = 10536
+	provinces = {}
+}
+
+STATE_SIERRA_LEONE = {
+	id = 10537
+	provinces = {}
+}
+
+STATE_SINALOA = {
+	id = 10538
+	provinces = {}
+}
+
+STATE_SISTAN = {
+	id = 10539
+	provinces = {}
+}
+
+STATE_SKOPIA = {
+	id = 10540
+	provinces = {}
+}
+
+STATE_SLAVONIA = {
+	id = 10541
+	provinces = {}
+}
+
+STATE_SLOVAKIA = {
+	id = 10542
+	provinces = {}
+}
+
+STATE_SLOVENIA = {
+	id = 10543
+	provinces = {}
+}
+
+STATE_SMOLENSK = {
+	id = 10544
+	provinces = {}
+}
+
+STATE_SOMALILAND = {
+	id = 10545
+	provinces = {}
+}
+
+STATE_SOUTHERN_ANHUI = {
+	id = 10546
+	provinces = {}
+}
+
+STATE_SOUTH_ANGOLA = {
+	id = 10547
+	provinces = {}
+}
+
+STATE_SOUTH_CAROLINA = {
+	id = 10548
+	provinces = {}
+}
+
+STATE_SOUTH_MADAGASCAR = {
+	id = 10549
+	provinces = {}
+}
+
+STATE_SOUTH_TYROL = {
+	id = 10550
+	provinces = {}
+}
+
+STATE_STAVROPOL = {
+	id = 10551
+	provinces = {}
+}
+
+STATE_SUNDA_ISLANDS = {
+	id = 10552
+	provinces = {}
+}
+
+STATE_SURGUT = {
+	id = 10553
+	provinces = {}
+}
+
+STATE_TAHITI = {
+	id = 10554
+	provinces = {}
+}
+
+STATE_TAMBOV = {
+	id = 10555
+	provinces = {}
+}
+
+STATE_TARTU = {
+	id = 10556
+	provinces = {}
+}
+
+STATE_TAURIDA = {
+	id = 10557
+	provinces = {}
+}
+
+STATE_TENASSERIM = {
+	id = 10558
+	provinces = {}
+}
+
+STATE_TENNESSEE = {
+	id = 10559
+	provinces = {}
+}
+
+STATE_THESSALIA = {
+	id = 10560
+	provinces = {}
+}
+
+STATE_TOBOLSK = {
+	id = 10561
+	provinces = {}
+}
+
+STATE_TOHOKU = {
+	id = 10562
+	provinces = {}
+}
+
+STATE_TONKIN = {
+	id = 10563
+	provinces = {}
+}
+
+STATE_TRAVANCORE = {
+	id = 10564
+	provinces = {}
+}
+
+STATE_TRIPOLI = {
+	id = 10565
+	provinces = {}
+}
+
+STATE_TUNISIA = {
+	id = 10566
+	provinces = {}
+}
+
+STATE_TVER = {
+	id = 10567
+	provinces = {}
+}
+
+STATE_TYROL = {
+	id = 10568
+	provinces = {}
+}
+
+STATE_UGANDA = {
+	id = 10569
+	provinces = {}
+}
+
+STATE_ULIASTAI = {
+	id = 10570
+	provinces = {}
+}
+
+STATE_UPPER_ANDALUSIA = {
+	id = 10571
+	provinces = {}
+}
+
+STATE_URAL = {
+	id = 10572
+	provinces = {}
+}
+
+STATE_URGA = {
+	id = 10573
+	provinces = {}
+}
+
+STATE_URMIA = {
+	id = 10574
+	provinces = {}
+}
+
+STATE_VERACRUZ = {
+	id = 10575
+	provinces = {}
+}
+
+STATE_VERMONT = {
+	id = 10576
+	provinces = {}
+}
+
+STATE_VILNIUS = {
+	id = 10577
+	provinces = {}
+}
+
+STATE_VIRGINIA = {
+	id = 10578
+	provinces = {}
+}
+
+STATE_VITEBSK = {
+	id = 10579
+	provinces = {}
+}
+
+STATE_VOLHYNIA = {
+	id = 10580
+	provinces = {}
+}
+
+STATE_VYATKA = {
+	id = 10581
+	provinces = {}
+}
+
+STATE_WADDAI = {
+	id = 10582
+	provinces = {}
+}
+
+STATE_WALLACHIA = {
+	id = 10583
+	provinces = {}
+}
+
+STATE_WESTERN_CUBA = {
+	id = 10584
+	provinces = {}
+}
+
+STATE_WESTERN_HUBEI = {
+	id = 10585
+	provinces = {}
+}
+
+STATE_WESTERN_MALI = {
+	id = 10586
+	provinces = {}
+}
+
+STATE_WESTERN_NEW_GUINEA = {
+	id = 10587
+	provinces = {}
+}
+
+STATE_WESTERN_NORWAY = {
+	id = 10588
+	provinces = {}
+}
+
+STATE_WESTPHALIA = {
+	id = 10589
+	provinces = {}
+}
+
+STATE_WEST_AEGEAN_ISLANDS = {
+	id = 10590
+	provinces = {}
+}
+
+STATE_WEST_INDIES = {
+	id = 10591
+	provinces = {}
+}
+
+STATE_WEST_KARELIA = {
+	id = 10592
+	provinces = {}
+}
+
+STATE_WEST_SAHARA = {
+	id = 10593
+	provinces = {}
+}
+
+STATE_WEST_SWITZERLAND = {
+	id = 10594
+	provinces = {}
+}
+
+STATE_WEST_VIRGINIA = {
+	id = 10595
+	provinces = {}
+}
+
+STATE_WURTTEMBERG = {
+	id = 10596
+	provinces = {}
+}
+
+STATE_XIAN = {
+	id = 10597
+	provinces = {}
+}
+
+STATE_YAROSLAVL = {
+	id = 10598
+	provinces = {}
+}
+
+STATE_YEMEN = {
+	id = 10599
+	provinces = {}
+}
+
+STATE_YORUBA_STATES = {
+	id = 10600
+	provinces = {}
+}
+
+STATE_YUCATAN = {
+	id = 10601
+	provinces = {}
+}
+
+STATE_YUNNAN = {
+	id = 10602
+	provinces = {}
+}
+
+STATE_ZACATECAS = {
+	id = 10603
+	provinces = {}
+}
+
+STATE_ZEALAND = {
+	id = 10604
+	provinces = {}
+}
+
+STATE_ZHEJIANG = {
+	id = 10605
+	provinces = {}
+}
+
+STATE_ZHILI = {
+	id = 10606
+	provinces = {}
+}
+
+STATE_BOTSWANA = {
+	id = 10607
+	provinces = {}
+}
+
+STATE_BOUGAINVILLE = {
+	id = 10608
+	provinces = {}
+}
+
+STATE_BURYATIA = {
+	id = 10609
+	provinces = {}
+}
+
+STATE_CELEBES = {
+	id = 10610
+	provinces = {}
+}
+
+STATE_CENTER = {
+	id = 10611
+	provinces = {}
+}
+
+STATE_CHUKOTKA = {
+	id = 10612
+	provinces = {}
+}
+
+STATE_CONGO = {
+	id = 10613
+	provinces = {}
+}
+
+STATE_CONGO_ORIENTALE = {
+	id = 10614
+	provinces = {}
+}
+
+STATE_EASTERN_HIMALAYAS = {
+	id = 10615
+	provinces = {}
+}
+
+STATE_EASTERN_NEW_GUINEA = {
+	id = 10616
+	provinces = {}
+}
+
+STATE_EAST_GALICIA = {
+	id = 10617
+	provinces = {}
+}
+
+STATE_EAST_KARELIA = {
+	id = 10618
+	provinces = {}
+}
+
+STATE_EAST_MICRONESIA = {
+	id = 10619
+	provinces = {}
+}
+
+STATE_EGYPTIAN_DESERT = {
+	id = 10620
+	provinces = {}
+}
+
+STATE_EQUATEUR = {
+	id = 10621
+	provinces = {}
+}
+
+STATE_EQUATORIA = {
+	id = 10622
+	provinces = {}
+}
+
+STATE_FIJI = {
+	id = 10623
+	provinces = {}
+}
+
+STATE_GABON = {
+	id = 10624
+	provinces = {}
+}
+
+STATE_HEREROLAND = {
+	id = 10625
+	provinces = {}
+}
+
+STATE_INNER_MAURITANIA = {
+	id = 10626
+	provinces = {}
+}
+
+STATE_IRKUTSK = {
+	id = 10627
+	provinces = {}
+}
+
+STATE_IVORY_COAST = {
+	id = 10628
+	provinces = {}
+}
+
+STATE_KAMCHATKA = {
+	id = 10629
+	provinces = {}
+}
+
+STATE_KANAK = {
+	id = 10630
+	provinces = {}
+}
+
+STATE_KASAI = {
+	id = 10631
+	provinces = {}
+}
+
+STATE_KATANGA = {
+	id = 10632
+	provinces = {}
+}
+
+STATE_KAZEMBE = {
+	id = 10633
+	provinces = {}
+}
+
+STATE_KOLYMA = {
+	id = 10634
+	provinces = {}
+}
+
+STATE_KOSOVO = {
+	id = 10635
+	provinces = {}
+}
+
+STATE_KRASNOYARSK = {
+	id = 10636
+	provinces = {}
+}
+
+STATE_MATRUH = {
+	id = 10637
+	provinces = {}
+}
+
+STATE_MAURITANIA = {
+	id = 10638
+	provinces = {}
+}
+
+STATE_MINNESOTA = {
+	id = 10639
+	provinces = {}
+}
+
+STATE_NAMAQUALAND = {
+	id = 10640
+	provinces = {}
+}
+
+STATE_NAURU = {
+	id = 10641
+	provinces = {}
+}
+
+STATE_NIGER = {
+	id = 10642
+	provinces = {}
+}
+
+STATE_NIGER_DELTA = {
+	id = 10643
+	provinces = {}
+}
+
+STATE_OKHOTSK = {
+	id = 10644
+	provinces = {}
+}
+
+STATE_PERSIAN_KURDISTAN = {
+	id = 10645
+	provinces = {}
+}
+
+STATE_SAKHALIN = {
+	id = 10646
+	provinces = {}
+}
+
+STATE_SOLOMON_ISLANDS = {
+	id = 10647
+	provinces = {}
+}
+
+STATE_SOUTH_CAMEROON = {
+	id = 10648
+	provinces = {}
+}
+
+STATE_TIMBUKTU = {
+	id = 10649
+	provinces = {}
+}
+
+STATE_TOGO = {
+	id = 10650
+	provinces = {}
+}
+
+STATE_TONGA = {
+	id = 10651
+	provinces = {}
+}
+
+STATE_TRANS_BAIKAL = {
+	id = 10652
+	provinces = {}
+}
+
+STATE_TUVA = {
+	id = 10653
+	provinces = {}
+}
+
+STATE_UBANGI_SHARI = {
+	id = 10654
+	provinces = {}
+}
+
+STATE_UFA = {
+	id = 10655
+	provinces = {}
+}
+
+STATE_UPPER_YENISEYSK = {
+	id = 10656
+	provinces = {}
+}
+
+STATE_VANUATU = {
+	id = 10657
+	provinces = {}
+}
+
+STATE_VOLTA = {
+	id = 10658
+	provinces = {}
+}
+
+STATE_WINDWARD_COAST = {
+	id = 10659
+	provinces = {}
+}
+
+STATE_YAKUTSK = {
+	id = 10660
+	provinces = {}
+}
+
+STATE_ZAMBEZI = {
+	id = 10661
+	provinces = {}
+}
+
+STATE_ZAMBIA = {
+	id = 10662
+	provinces = {}
+}

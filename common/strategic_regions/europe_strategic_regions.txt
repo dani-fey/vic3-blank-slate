@@ -1,0 +1,41 @@
+﻿# Strategic Regions in Western Europe
+
+region_england = {}
+
+region_north_sea_coast = {}
+
+region_iberia = {}
+
+region_france = {}
+
+region_occitania = {}
+
+region_rhine = {}
+
+region_italy = {}
+
+region_balkans = {}
+
+region_north_germany = {}
+
+region_south_germany = {}
+
+region_baltic = {}
+
+region_danubia = {}
+
+region_poland = {}
+
+region_russia = {}
+
+region_dnieper = {}
+
+region_belarus = {}
+
+region_baltic_states = {}
+
+region_finland = {}
+
+region_arctic_russia = {}
+
+region_urals = {}

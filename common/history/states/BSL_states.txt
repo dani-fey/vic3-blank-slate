@@ -1,0 +1,8 @@
+﻿STATES = {
+  s:STATE_CENTER = {
+    create_state = {
+      country = c:DEF
+      owned_provinces = { xFF00FF }
+    }
+  }
+}

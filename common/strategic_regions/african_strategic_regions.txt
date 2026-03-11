@@ -1,0 +1,17 @@
+﻿# Strategic Regions in Africa
+
+region_nile_basin = {}
+
+region_ethiopia = {}
+
+region_north_africa = {}
+
+region_senegal = {}
+
+region_niger = {}
+
+region_congo = {}
+
+region_southern_africa = {}
+
+region_zanj = {}

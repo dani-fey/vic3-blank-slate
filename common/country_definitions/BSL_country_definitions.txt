@@ -1,0 +1,11 @@
+﻿DEF = {
+	color = { 255 0 0 }
+
+	country_type = recognized
+
+	tier = empire
+
+	cultures = { }
+	religion = catholic
+	capital = STATE_CENTER
+}

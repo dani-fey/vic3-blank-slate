@@ -1,0 +1,5 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+xFF00FF;xFF0000;sea;-1;-1;-1;-1;-1;;None
+xFF00FF;xFFFF00;sea;-1;-1;-1;-1;-1;;None
+xFF00FF;x00FF00;sea;-1;-1;-1;-1;-1;;None
+xFF00FF;x00FFFF;sea;-1;-1;-1;-1;-1;;None

@@ -1,0 +1,9 @@
+﻿region_land = {
+	capital_province = xFF00FF
+	map_color = { 0.25 0.75 0.25 }
+	states = { STATE_CENTER }
+}
+
+region_sea = {
+	states = { STATE_NE STATE_NW STATE_SE STATE_SW }
+}

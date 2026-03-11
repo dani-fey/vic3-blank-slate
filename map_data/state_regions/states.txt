@@ -1,0 +1,35 @@
+﻿STATE_CENTER = {
+  id = 1
+  subsistence_building = "building_subsistence_farm"
+  provinces = { "xFF00FF" }
+  traits = {}
+  city = "xFF00FF"
+  farm = "xFF00FF"
+  mine = "xFF00FF"
+  wood = "xFF00FF"
+  port = "xFF00FF"
+  arable_land = 1
+  arable_resources = {}
+  capped_resources = {}
+  resource = {}
+}
+
+STATE_NW = {
+  id = 2
+  provinces = { "xFF0000" }
+}
+
+STATE_NE = {
+  id = 3
+  provinces = { "xFFFF00" }
+}
+
+STATE_SW = {
+  id = 4
+  provinces = { "x00FF00" }
+}
+
+STATE_SE = {
+  id = 5
+  provinces = { "x00FFFF" }
+}

@@ -1,0 +1,19 @@
+﻿# Strategic Regions in Eastern Asia
+
+region_indochina = {}
+
+region_indonesia = {}
+
+region_south_china = {}
+
+region_north_china = {}
+
+region_manchuria = {}
+
+region_japan = {}
+
+region_west_siberia = {}
+
+region_east_siberia = {}
+
+region_oceania = {}

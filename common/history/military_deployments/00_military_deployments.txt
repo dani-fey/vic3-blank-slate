@@ -1,0 +1,80 @@
+﻿MILITARY_DEPLOYMENTS = {
+	c:MEX ?= {
+		random_scope_general = {
+			limit = {
+				has_variable = is_santa_anna
+			}
+		}
+	}
+
+	c:TEX ?= {
+		random_scope_general = {
+			limit = {
+				has_template = TEX_William_Travis
+			}
+		}
+	}
+
+	c:BRZ ?= {
+		random_scope_general = {
+			limit = {
+				has_template = BRZ_pierre_labatut
+			}
+		}
+
+		random_scope_general = {
+			limit = {
+				has_template = BRZ_pedro_de_alcantara_bellegarde
+			}
+		}
+	}
+
+	c:SPC ?= {
+		random_scope_general = {
+			limit = {
+				has_template = SPC_vicente_gonzalez_moreno_template
+			}
+			commander_military_formation ?= {
+				fully_mobilize_army = yes
+			}
+		}
+		random_scope_general = {
+			limit = {
+				has_template = SPC_ramon_cabrera_template
+			}
+			commander_military_formation ?= {
+				fully_mobilize_army = yes
+			}
+		}
+		random_scope_general = {
+			limit = {
+				has_template = SPC_juan_antonio_de_urbiztondo_template
+			}
+			commander_military_formation ?= {
+				fully_mobilize_army = yes
+			}
+		}
+	}
+
+	c:SPA ?= {
+		every_scope_general = {
+			commander_military_formation ?= {
+				fully_mobilize_army = yes
+			}
+		}
+	}
+
+	c:TRI ?= {
+		every_military_formation = {
+			limit = {
+				is_army = yes
+			}
+			fully_mobilize_army = yes
+		}
+	}
+	c:FZN ?= {
+		every_military_formation = {
+			fully_mobilize_army = yes
+		}
+	}
+}

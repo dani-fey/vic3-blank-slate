@@ -1,0 +1,19 @@
+﻿# Strategic Regions in North America
+
+region_canada = {}
+
+region_new_england = {}
+
+region_pacific_coast = {}
+
+region_great_plains = {}
+
+region_the_midwest = {}
+
+region_dixie = {}
+
+region_mexico = {}
+
+region_central_america = {}
+
+region_caribbean = {}

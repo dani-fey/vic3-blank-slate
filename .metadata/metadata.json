@@ -1,0 +1,18 @@
+{
+  "name" : "Blank Slate",
+	"id" : "",
+  "version" : "",
+  "supported_game_version" : "1.12.*",
+  "short_description" : "A blank slate mod template intended for modders to use as a starting point for total conversions.",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true,
+    "replace_paths": [
+      "map_data",
+      "map_data/state_regions",
+      "common/history/states",
+      "common/country_creation"
+    ]
+  }
+}
